@@ -20,3 +20,7 @@ App uses NASA’s open APIs ( https://api.nasa.gov/ ) and in particular, the APO
 ## How to Build 
 This is an iOS App, so it needs XCODE to run this project
 
+<!-- Screenshots -->
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 19 10 01](https://user-images.githubusercontent.com/44516579/203364164-db95f33c-4c00-43f6-ab22-ae8e1915605b.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 19 10 44](https://user-images.githubusercontent.com/44516579/203364231-9a0b0ba4-392e-4ae9-bf31-028779c0dc88.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 19 11 31](https://user-images.githubusercontent.com/44516579/203364272-2f7208e8-ae21-4ab5-aab5-a68e3865a441.png)
